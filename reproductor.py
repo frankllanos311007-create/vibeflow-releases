@@ -779,7 +779,7 @@ class VentanaDescargasProfesional(ctk.CTkToplevel):
         self.ruta_carpeta = ruta_carpeta
         self.descargas_activas = []
         
-        self.title("📥 Gestor de Descargas Profesional")
+        self.title("VibeFlow - Reproductor Premium")
         self.geometry("800x600")
         self.configure(fg_color=COLORS['bg_medium'])
         self.transient(parent)

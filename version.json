@@ -1,8 +1,8 @@
 {
   "version": "1.0.4",
   "mandatory": false,
-  "changelog": "✨ VERSIÓN 1.0.4\n\n🎵 Nuevas características:\n• Soporte para más formatos de audio\n• Mejora en la interfaz de usuario\n• Optimización de rendimiento\n\n🐛 Correcciones:\n• Arreglado problema con algunos archivos MP3\n• Mejorada estabilidad general\n\n📦 Requisitos:\n- FFmpeg en la carpeta de la aplicación\n- Conexión a internet para descargar actualizaciones",
+  "changelog": "✨ VERSIÓN 1.0.4\n\n🎵 Nuevas características:\n• Nuevo título mejorado: 'VibeFlow - Reproductor Premium'\n• Interface más pulida\n\n🐛 Correcciones:\n• Mejoras en estabilidad\n• Optimizaciones generales\n\n📦 Requisitos:\n- FFmpeg en la carpeta de la aplicación\n- Conexión a internet para descargar actualizaciones",
   "download_url": "https://github.com/frankllanos311007-create/vibeflow-releases/releases/download/v1.0.4/VibeFlow-v1.0.4.exe",
-  "release_date": "2024-01-15",
+  "release_date": "2024-03-06",
   "min_version": "1.0.0"
 }
