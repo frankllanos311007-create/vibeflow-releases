@@ -67,7 +67,7 @@ class ActualizadorAutomatico:
         self.repo_usuario = repo_usuario
         self.repo_nombre = repo_nombre
         self.url_version = f"https://raw.githubusercontent.com/{repo_usuario}/{repo_nombre}/main/version.json"
-        self.url_descarga = f"https://github.com/{repo_usuario}/{repo_nombre}/releases/download/v{{version}}/VibeFlow-Update-v{{version}}.exe"
+        self.url_descarga = f"https://github.com/{repo_usuario}/{repo_nombre}/releases/download/v{{version}}/reproductor.exe"
         
     def verificar(self, silencioso=True):
         try:
